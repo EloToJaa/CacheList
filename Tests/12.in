@@ -1,0 +1,993 @@
+I 1024 
+A. END 4 
+R END
+P ALL
+A. END 8 
+P ALL
+R END
+.A BEG 1 
+A. END 8 
+R BEG
+A. END 0 
+A. END 9 
+P ALL
+.A BEG 2 
+.A BEG 4 
+A. END 1 
+A. END 3 
+R END
+P ALL
+R END
+R BEG
+R END
+A. END 5 
+R BEG
+A. END 5 
+P ALL
+R BEG
+A. END 4 
+.A BEG 0 
+R BEG
+A. END 2 
+A. END 0 
+A. END 2 
+R BEG
+.A BEG 9 
+R END
+R END
+R BEG
+.A BEG 4 
+R BEG
+R BEG
+R END
+A. END 5 
+R END
+.A BEG 4 
+R END
+A. END 2 
+P ALL
+R END
+R BEG
+R BEG
+P ALL
+A. END 3 
+R END
+P ALL
+.A BEG 9 
+R END
+P ALL
+.A BEG 0 
+.A BEG 7 
+A. END 5 
+A. END 3 
+.A BEG 1 
+R BEG
+A. END 1 
+A. END 9 
+R BEG
+.A BEG 2 
+R BEG
+R END
+.A BEG 0 
+R BEG
+.A BEG 4 
+A. END 1 
+.A BEG 6 
+R END
+A. END 2 
+R END
+A. END 6 
+.A BEG 9 
+A. END 7 
+.A BEG 9 
+.A BEG 0 
+.A BEG 0 
+.A BEG 5 
+R END
+A. END 8 
+R BEG
+R END
+A. END 4 
+R END
+.A BEG 8 
+R BEG
+A. END 6 
+A. END 2 
+P ALL
+.A BEG 9 
+A. END 4 
+P ALL
+.A BEG 0 
+R END
+A. END 6 
+P ALL
+R END
+R END
+.A BEG 8 
+.A BEG 3 
+.A BEG 5 
+A. END 2 
+.A BEG 5 
+.A BEG 6 
+R BEG
+A. END 9 
+R BEG
+A. END 8 
+.A BEG 4 
+P ALL
+.A BEG 0 
+A. END 8 
+A. END 7 
+.A BEG 8 
+P ALL
+A. END 6 
+R BEG
+R BEG
+R END
+A. END 2 
+.A BEG 8 
+.A BEG 1 
+P ALL
+.A BEG 9 
+R END
+A. END 6 
+.A BEG 7 
+.A BEG 7 
+A. END 9 
+.A BEG 1 
+R BEG
+.A BEG 8 
+R END
+A. END 4 
+A. END 5 
+R BEG
+A. END 3 
+.A BEG 4 
+R END
+P ALL
+P ALL
+.A BEG 1 
+R END
+R END
+A. END 2 
+R END
+.A BEG 3 
+.A BEG 0 
+.A BEG 8 
+R END
+P ALL
+A. END 8 
+A. END 3 
+R END
+A. END 2 
+A. END 6 
+R BEG
+.A BEG 0 
+R BEG
+A. END 6 
+R END
+R BEG
+.A BEG 7 
+A. END 8 
+R END
+R BEG
+R BEG
+.A BEG 7 
+A. END 4 
+R BEG
+R END
+R BEG
+.A BEG 7 
+P ALL
+.A BEG 6 
+A. END 2 
+R BEG
+A. END 1 
+R END
+R END
+R BEG
+R BEG
+.A BEG 7 
+.A BEG 2 
+.A BEG 1 
+P ALL
+.A BEG 1 
+R END
+.A BEG 2 
+R BEG
+R END
+A. END 5 
+R BEG
+R END
+A. END 0 
+R BEG
+.A BEG 9 
+R BEG
+A. END 1 
+R BEG
+A. END 3 
+R BEG
+.A BEG 8 
+A. END 9 
+A. END 3 
+R END
+R BEG
+P ALL
+.A BEG 4 
+R END
+A. END 4 
+.A BEG 4 
+P ALL
+P ALL
+A. END 3 
+A. END 7 
+R END
+A. END 7 
+A. END 0 
+A. END 2 
+A. END 1 
+R END
+.A BEG 1 
+A. END 2 
+A. END 0 
+R END
+R BEG
+R BEG
+R BEG
+A. END 3 
+R BEG
+A. END 4 
+.A BEG 8 
+R END
+R BEG
+.A BEG 7 
+R BEG
+P ALL
+A. END 5 
+P ALL
+.A BEG 8 
+.A BEG 5 
+R END
+R BEG
+.A BEG 7 
+R END
+.A BEG 2 
+A. END 8 
+R END
+R BEG
+A. END 0 
+A. END 0 
+.A BEG 3 
+.A BEG 8 
+.A BEG 0 
+A. END 2 
+.A BEG 3 
+R END
+.A BEG 7 
+P ALL
+.A BEG 2 
+.A BEG 4 
+A. END 6 
+P ALL
+.A BEG 2 
+R BEG
+R BEG
+R END
+P ALL
+.A BEG 4 
+A. END 9 
+A. END 7 
+P ALL
+A. END 4 
+P ALL
+A. END 7 
+P ALL
+R END
+R BEG
+P ALL
+P ALL
+.A BEG 1 
+.A BEG 8 
+.A BEG 1 
+P ALL
+R BEG
+R END
+P ALL
+.A BEG 5 
+R BEG
+.A BEG 2 
+R END
+R END
+P ALL
+R BEG
+.A BEG 4 
+R BEG
+.A BEG 5 
+R BEG
+A. END 2 
+R BEG
+R BEG
+.A BEG 0 
+R BEG
+R END
+A. END 3 
+.A BEG 1 
+A. END 5 
+P ALL
+R BEG
+R BEG
+P ALL
+.A BEG 4 
+R BEG
+R BEG
+A. END 4 
+.A BEG 9 
+.A BEG 9 
+R BEG
+R END
+.A BEG 1 
+A. END 5 
+R END
+R BEG
+.A BEG 4 
+.A BEG 5 
+A. END 7 
+A. END 9 
+R END
+R END
+R BEG
+P ALL
+R BEG
+A. END 4 
+.A BEG 0 
+R BEG
+R END
+A. END 4 
+R END
+R END
+R BEG
+R BEG
+.A BEG 7 
+R END
+A. END 3 
+R BEG
+R END
+P ALL
+.A BEG 3 
+.A BEG 2 
+A. END 2 
+R END
+.A BEG 2 
+.A BEG 9 
+R BEG
+P ALL
+R END
+R BEG
+.A BEG 9 
+R END
+.A BEG 5 
+.A BEG 7 
+A. END 1 
+R END
+R BEG
+.A BEG 2 
+A. END 8 
+A. END 4 
+.A BEG 4 
+R END
+R BEG
+.A BEG 7 
+.A BEG 3 
+A. END 7 
+.A BEG 3 
+R END
+A. END 0 
+P ALL
+.A BEG 2 
+P ALL
+R END
+R BEG
+R BEG
+R END
+R BEG
+R END
+A. END 9 
+R END
+A. END 1 
+P ALL
+P ALL
+.A BEG 2 
+P ALL
+R BEG
+R BEG
+A. END 8 
+A. END 8 
+.A BEG 9 
+.A BEG 8 
+R BEG
+R END
+R END
+A. END 6 
+.A BEG 5 
+R BEG
+A. END 0 
+P ALL
+.A BEG 6 
+R END
+.A BEG 3 
+.A BEG 6 
+.A BEG 6 
+R BEG
+.A BEG 3 
+.A BEG 5 
+A. END 2 
+R BEG
+.A BEG 3 
+A. END 9 
+A. END 9 
+R END
+A. END 4 
+R BEG
+A. END 7 
+A. END 9 
+R BEG
+.A BEG 0 
+R BEG
+.A BEG 2 
+.A BEG 4 
+R BEG
+A. END 7 
+A. END 1 
+.A BEG 6 
+R END
+.A BEG 7 
+A. END 6 
+A. END 4 
+A. END 7 
+A. END 6 
+R BEG
+R END
+R END
+A. END 8 
+R END
+.A BEG 0 
+R BEG
+R END
+R BEG
+R BEG
+P ALL
+P ALL
+R BEG
+A. END 5 
+R BEG
+R BEG
+A. END 1 
+R END
+.A BEG 2 
+.A BEG 6 
+.A BEG 0 
+R END
+R END
+A. END 2 
+R END
+A. END 6 
+.A BEG 7 
+R BEG
+A. END 0 
+R BEG
+R BEG
+R END
+.A BEG 1 
+R BEG
+R BEG
+R BEG
+.A BEG 8 
+A. END 9 
+A. END 8 
+A. END 0 
+R END
+A. END 5 
+A. END 5 
+.A BEG 8 
+R BEG
+R BEG
+.A BEG 3 
+A. END 2 
+R BEG
+R END
+R BEG
+R END
+A. END 6 
+R BEG
+R BEG
+R BEG
+.A BEG 7 
+A. END 7 
+R BEG
+R END
+.A BEG 0 
+.A BEG 2 
+R BEG
+A. END 4 
+R END
+R END
+R END
+A. END 5 
+A. END 5 
+.A BEG 2 
+R END
+A. END 6 
+A. END 3 
+.A BEG 6 
+R BEG
+.A BEG 2 
+R BEG
+A. END 7 
+.A BEG 2 
+.A BEG 1 
+A. END 7 
+.A BEG 0 
+A. END 8 
+.A BEG 5 
+R END
+A. END 5 
+.A BEG 5 
+A. END 3 
+R BEG
+A. END 6 
+.A BEG 7 
+R END
+.A BEG 3 
+R BEG
+R END
+R END
+A. END 5 
+A. END 5 
+A. END 6 
+R BEG
+R BEG
+P ALL
+P ALL
+.A BEG 0 
+P ALL
+R BEG
+A. END 2 
+.A BEG 6 
+R BEG
+R END
+R BEG
+A. END 2 
+.A BEG 4 
+P ALL
+R BEG
+R BEG
+A. END 7 
+A. END 7 
+.A BEG 7 
+A. END 4 
+R END
+A. END 8 
+.A BEG 6 
+P ALL
+.A BEG 7 
+.A BEG 3 
+.A BEG 3 
+.A BEG 3 
+A. END 4 
+R BEG
+P ALL
+A. END 6 
+A. END 5 
+.A BEG 7 
+R END
+R END
+P ALL
+R END
+R END
+R BEG
+R BEG
+A. END 6 
+.A BEG 8 
+R END
+.A BEG 8 
+P ALL
+R BEG
+.A BEG 7 
+R BEG
+P ALL
+R BEG
+R END
+R BEG
+R BEG
+R BEG
+P ALL
+.A BEG 1 
+A. END 6 
+R END
+A. END 6 
+R BEG
+R END
+.A BEG 5 
+R BEG
+.A BEG 0 
+A. END 1 
+R BEG
+R BEG
+P ALL
+P ALL
+.A BEG 1 
+.A BEG 2 
+.A BEG 5 
+A. END 0 
+R BEG
+R END
+.A BEG 9 
+A. END 6 
+R BEG
+.A BEG 4 
+R BEG
+A. END 7 
+A. END 2 
+A. END 3 
+.A BEG 3 
+R END
+P ALL
+.A BEG 9 
+R END
+A. END 6 
+R BEG
+R END
+P ALL
+.A BEG 7 
+R BEG
+R BEG
+A. END 0 
+R END
+R END
+R BEG
+R END
+A. END 1 
+A. END 4 
+R END
+.A BEG 2 
+R END
+.A BEG 6 
+.A BEG 9 
+P ALL
+A. END 4 
+R END
+.A BEG 6 
+A. END 6 
+A. END 3 
+R END
+.A BEG 8 
+R END
+A. END 6 
+A. END 7 
+A. END 5 
+.A BEG 0 
+A. END 5 
+.A BEG 6 
+P ALL
+R BEG
+.A BEG 0 
+P ALL
+P ALL
+P ALL
+A. END 2 
+A. END 6 
+P ALL
+.A BEG 3 
+.A BEG 4 
+.A BEG 5 
+A. END 6 
+A. END 5 
+R BEG
+R BEG
+.A BEG 2 
+.A BEG 1 
+R BEG
+P ALL
+P ALL
+.A BEG 8 
+R END
+A. END 5 
+R BEG
+.A BEG 4 
+R END
+.A BEG 7 
+P ALL
+A. END 7 
+A. END 9 
+A. END 0 
+R BEG
+R END
+R BEG
+A. END 9 
+R BEG
+.A BEG 3 
+A. END 4 
+.A BEG 4 
+A. END 7 
+R BEG
+.A BEG 0 
+.A BEG 5 
+R END
+R BEG
+A. END 4 
+.A BEG 1 
+.A BEG 7 
+R BEG
+R END
+.A BEG 2 
+R BEG
+A. END 5 
+R END
+R BEG
+R BEG
+R BEG
+.A BEG 1 
+.A BEG 5 
+R BEG
+.A BEG 8 
+R BEG
+.A BEG 3 
+P ALL
+.A BEG 4 
+A. END 4 
+R BEG
+R END
+R BEG
+.A BEG 7 
+R END
+A. END 7 
+A. END 7 
+R BEG
+A. END 9 
+R END
+A. END 1 
+A. END 9 
+.A BEG 8 
+A. END 6 
+A. END 5 
+R END
+.A BEG 5 
+A. END 1 
+.A BEG 1 
+.A BEG 0 
+.A BEG 0 
+.A BEG 0 
+R BEG
+A. END 2 
+A. END 5 
+R BEG
+.A BEG 8 
+.A BEG 6 
+R END
+R END
+R END
+.A BEG 2 
+.A BEG 0 
+R END
+A. END 0 
+R END
+A. END 5 
+.A BEG 0 
+A. END 8 
+R BEG
+R BEG
+R BEG
+R BEG
+R END
+.A BEG 5 
+.A BEG 3 
+A. END 1 
+R BEG
+P ALL
+A. END 6 
+P ALL
+.A BEG 4 
+R END
+.A BEG 8 
+A. END 0 
+R END
+R END
+R END
+R END
+A. END 8 
+A. END 4 
+A. END 4 
+.A BEG 9 
+A. END 7 
+R BEG
+P ALL
+.A BEG 5 
+R BEG
+.A BEG 1 
+P ALL
+A. END 7 
+R BEG
+R END
+.A BEG 0 
+.A BEG 4 
+.A BEG 1 
+R END
+.A BEG 9 
+R BEG
+R END
+.A BEG 4 
+.A BEG 7 
+R BEG
+.A BEG 9 
+R END
+.A BEG 1 
+A. END 3 
+R END
+.A BEG 2 
+P ALL
+.A BEG 0 
+R END
+R BEG
+P ALL
+R BEG
+A. END 5 
+A. END 3 
+A. END 0 
+.A BEG 5 
+.A BEG 4 
+R END
+A. END 1 
+P ALL
+R BEG
+.A BEG 2 
+R BEG
+A. END 9 
+R END
+P ALL
+P ALL
+A. END 8 
+A. END 0 
+R END
+P ALL
+R END
+A. END 8 
+P ALL
+R END
+.A BEG 2 
+R BEG
+R BEG
+R BEG
+A. END 6 
+.A BEG 9 
+.A BEG 0 
+R BEG
+.A BEG 0 
+.A BEG 0 
+R END
+A. END 6 
+P ALL
+P ALL
+A. END 9 
+R BEG
+R END
+P ALL
+A. END 5 
+A. END 7 
+R END
+R END
+A. END 2 
+A. END 0 
+R END
+A. END 3 
+.A BEG 7 
+R BEG
+P ALL
+R END
+.A BEG 7 
+R END
+A. END 3 
+A. END 8 
+.A BEG 6 
+A. END 9 
+R END
+.A BEG 0 
+R BEG
+A. END 3 
+.A BEG 6 
+A. END 3 
+R BEG
+R BEG
+A. END 8 
+P ALL
+R BEG
+R BEG
+.A BEG 2 
+.A BEG 6 
+R END
+R BEG
+R END
+P ALL
+R END
+.A BEG 6 
+R BEG
+R END
+A. END 9 
+R BEG
+.A BEG 6 
+R END
+A. END 5 
+R BEG
+R BEG
+P ALL
+A. END 2 
+.A BEG 4 
+A. END 3 
+.A BEG 8 
+R END
+A. END 6 
+A. END 2 
+A. END 6 
+A. END 2 
+.A BEG 5 
+.A BEG 3 
+R BEG
+R END
+A. END 0 
+P ALL
+.A BEG 6 
+.A BEG 9 
+A. END 4 
+P ALL
+.A BEG 1 
+.A BEG 4 
+P ALL
+.A BEG 6 
+R BEG
+A. END 4 
+R BEG
+.A BEG 4 
+.A BEG 7 
+A. END 3 
+R BEG
+R END
+A. END 8 
+R END
+A. END 5 
+R BEG
+R BEG
+.A BEG 1 
+A. END 7 
+.A BEG 7 
+A. END 6 
+.A BEG 0 
+R BEG
+A. END 6 
+.A BEG 6 
+R BEG
+.A BEG 4 
+A. END 5 
+.A BEG 8 
+R END
+P ALL
+.A BEG 2 
+R BEG
+R BEG
+P ALL
+A. END 9 
+R END
+.A BEG 5 
+R BEG
+A. END 1 
+R BEG
+.A BEG 0 
+R BEG
+A. END 1 
+R BEG
+R BEG
+R BEG
+R BEG
+.A BEG 1 
+R BEG
+R END
+R END
+R BEG

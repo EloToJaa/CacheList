@@ -1,0 +1,2098 @@
+I 128 
+.A BEG 1 
+.A BEG 4 
+.A BEG 7 
+.A BEG 5 
+.A BEG 6 
+.A BEG 0 
+.A BEG 2 
+.A BEG 3 
+.A BEG 8 
+.A BEG 4 
+.A BEG 9 
+.A BEG 0 
+.A BEG 1 
+.A BEG 2 
+.A BEG 8 
+.A BEG 8 
+.A BEG 3 
+.A BEG 0 
+.A BEG 7 
+.A BEG 9 
+i 0 BEG 
++ 0 
++ 0 
++ 0 
++ 0 
++ 0 
++ 0 
++ 0 
++ 0 
++ 0 
++ 0 
+i 1 BEG 
++ 1 
++ 1 
++ 1 
++ 1 
++ 1 
++ 1 
++ 1 
++ 1 
++ 1 
++ 1 
+P ALL
+P 1
+P ALL
++ 1
+P ALL
+R 1 
+P ALL
+R 1 
+P ALL
+R 0 
+P ALL
+P ALL
+R 0 
+P ALL
+R 0 
+P ALL
+- 1
+P ALL
+R 0 
+P ALL
++ 1
+P ALL
+R 1 
+P ALL
+- 1
+P ALL
+.A 1 2 
+P ALL
+R 0 
+P ALL
+R 0 
+P ALL
+- 0
+P ALL
+- 1
+P ALL
+A. 0 7 
+P ALL
+.A 1 4 
+P ALL
+R 1 
+P ALL
+- 1
+P ALL
+A. 0 9 
+P ALL
+A. 0 7 
+P ALL
+P 1
+P ALL
+R 1 
+P ALL
+P ALL
+R 1 
+P ALL
+P ALL
+R 1 
+P ALL
+R 0 
+P ALL
+P ALL
+R 1 
+P ALL
+.A 1 9 
+P ALL
+R 0 
+P ALL
+R 0 
+P ALL
++ 1
+P ALL
+- 0
+P ALL
+R 0 
+P ALL
+A. 1 0 
+P ALL
+R 0 
+P ALL
+- 0
+P ALL
+R 0 
+P ALL
+.A 0 2 
+P ALL
+A. 0 9 
+P ALL
+R 0 
+P ALL
+A. 1 8 
+P ALL
+- 0
+P ALL
+A. 0 4 
+P ALL
+.A 0 4 
+P ALL
+.A 0 9 
+P ALL
+P 1
+P ALL
+P 0
+P ALL
+P ALL
+R 1 
+P ALL
+.A 1 0 
+P ALL
+.A 0 8 
+P ALL
+R 0 
+P ALL
++ 0
+P ALL
+A. 0 5 
+P ALL
+R 1 
+P ALL
+R 0 
+P ALL
+- 1
+P ALL
+- 1
+P ALL
++ 0
+P ALL
+P 1
+P ALL
+R 0 
+P ALL
++ 0
+P ALL
+P 0
+P ALL
+A. 0 9 
+P ALL
+.A 0 3 
+P ALL
+R 0 
+P ALL
+.A 1 0 
+P ALL
+- 0
+P ALL
+R 0 
+P ALL
+- 1
+P ALL
++ 0
+P ALL
+.A 1 4 
+P ALL
+- 0
+P ALL
++ 0
+P ALL
++ 1
+P ALL
+- 0
+P ALL
+P 1
+P ALL
+A. 0 8 
+P ALL
+A. 0 2 
+P ALL
+.A 1 8 
+P ALL
+.A 1 6 
+P ALL
+- 0
+P ALL
++ 0
+P ALL
+- 1
+P ALL
+.A 1 7 
+P ALL
+- 1
+P ALL
+R 1 
+P ALL
+- 0
+P ALL
+A. 0 4 
+P ALL
++ 1
+P ALL
+R 1 
+P ALL
+- 0
+P ALL
+- 1
+P ALL
+P ALL
+R 1 
+P ALL
+.A 1 1 
+P ALL
+.A 0 2 
+P ALL
+A. 1 7 
+P ALL
+.A 0 0 
+P ALL
++ 0
+P ALL
+P 1
+P ALL
+.A 1 9 
+P ALL
+A. 0 4 
+P ALL
++ 0
+P ALL
+R 0 
+P ALL
+A. 0 1 
+P ALL
+A. 1 8 
+P ALL
+- 1
+P ALL
+- 0
+P ALL
+A. 0 8 
+P ALL
+- 1
+P ALL
++ 0
+P ALL
+R 1 
+P ALL
+R 0 
+P ALL
++ 0
+P ALL
+.A 1 6 
+P ALL
+R 0 
+P ALL
++ 1
+P ALL
+A. 1 0 
+P ALL
+R 0 
+P ALL
+- 1
+P ALL
+R 1 
+P ALL
+- 1
+P ALL
+.A 1 1 
+P ALL
+- 0
+P ALL
+R 0 
+P ALL
++ 1
+P ALL
+R 0 
+P ALL
+- 0
+P ALL
+R 1 
+P ALL
+P 0
+P ALL
+- 1
+P ALL
+R 0 
+P ALL
+P ALL
+R 1 
+P ALL
+- 0
+P ALL
++ 1
+P ALL
++ 1
+P ALL
+A. 0 1 
+P ALL
+- 0
+P ALL
+A. 0 2 
+P ALL
+.A 0 4 
+P ALL
+P 0
+P ALL
+.A 1 8 
+P ALL
+.A 1 3 
+P ALL
++ 0
+P ALL
++ 0
+P ALL
++ 1
+P ALL
+.A 1 1 
+P ALL
++ 0
+P ALL
++ 0
+P ALL
+.A 0 1 
+P ALL
+R 1 
+P ALL
+R 1 
+P ALL
++ 0
+P ALL
+.A 0 8 
+P ALL
+R 1 
+P ALL
+- 1
+P ALL
+P 1
+P ALL
++ 1
+P ALL
+- 0
+P ALL
+- 1
+P ALL
+.A 1 9 
+P ALL
++ 1
+P ALL
+- 0
+P ALL
+- 0
+P ALL
+A. 0 5 
+P ALL
+R 0 
+P ALL
+.A 1 6 
+P ALL
+.A 1 8 
+P ALL
+.A 0 8 
+P ALL
+- 1
+P ALL
+A. 1 4 
+P ALL
+P ALL
+R 0 
+P ALL
+P ALL
+R 0 
+P ALL
+.A 0 8 
+P ALL
+P ALL
+R 1 
+P ALL
++ 1
+P ALL
+R 1 
+P ALL
+P ALL
+R 0 
+P ALL
++ 0
+P ALL
+R 1 
+P ALL
++ 1
+P ALL
++ 0
+P ALL
+P ALL
+R 0 
+P ALL
+P 0
+P ALL
+A. 1 8 
+P ALL
+P 0
+P ALL
+R 0 
+P ALL
+.A 1 3 
+P ALL
+P ALL
+R 0 
+P ALL
+A. 0 7 
+P ALL
++ 0
+P ALL
+- 0
+P ALL
+A. 1 8 
+P ALL
+R 1 
+P ALL
+.A 1 1 
+P ALL
+P 0
+P ALL
++ 0
+P ALL
+R 0 
+P ALL
+- 0
+P ALL
+R 0 
+P ALL
+- 1
+P ALL
+- 1
+P ALL
++ 1
+P ALL
+P 1
+P ALL
+R 1 
+P ALL
+- 0
+P ALL
+R 0 
+P ALL
++ 0
+P ALL
+- 1
+P ALL
+- 1
+P ALL
+R 1 
+P ALL
+.A 0 1 
+P ALL
+- 1
+P ALL
+R 0 
+P ALL
+.A 1 5 
+P ALL
++ 1
+P ALL
++ 1
+P ALL
+A. 0 4 
+P ALL
+P ALL
+R 1 
+P ALL
++ 0
+P ALL
+- 0
+P ALL
+R 0 
+P ALL
++ 0
+P ALL
+A. 0 6 
+P ALL
+R 1 
+P ALL
++ 1
+P ALL
++ 1
+P ALL
+R 1 
+P ALL
+P ALL
+R 1 
+P ALL
+A. 0 0 
+P ALL
++ 0
+P ALL
+A. 0 1 
+P ALL
+.A 1 9 
+P ALL
+P 0
+P ALL
+R 1 
+P ALL
+R 1 
+P ALL
+- 1
+P ALL
+- 1
+P ALL
++ 1
+P ALL
+.A 1 1 
+P ALL
+P ALL
+R 1 
+P ALL
+- 0
+P ALL
++ 0
+P ALL
+- 0
+P ALL
+R 1 
+P ALL
+- 1
+P ALL
+R 1 
+P ALL
+- 0
+P ALL
+.A 0 0 
+P ALL
+- 1
+P ALL
+.A 1 2 
+P ALL
+A. 1 9 
+P ALL
+.A 1 0 
+P ALL
++ 1
+P ALL
+A. 1 0 
+P ALL
+P 0
+P ALL
+.A 1 2 
+P ALL
+R 1 
+P ALL
++ 0
+P ALL
++ 0
+P ALL
+- 1
+P ALL
+- 0
+P ALL
+R 1 
+P ALL
+A. 0 8 
+P ALL
+.A 1 5 
+P ALL
++ 0
+P ALL
+P ALL
+R 1 
+P ALL
+R 1 
+P ALL
+.A 1 3 
+P ALL
+R 1 
+P ALL
+R 1 
+P ALL
+- 1
+P ALL
+- 1
+P ALL
++ 0
+P ALL
+R 1 
+P ALL
+P ALL
+R 0 
+P ALL
+R 1 
+P ALL
+R 1 
+P ALL
++ 0
+P ALL
+R 0 
+P ALL
++ 1
+P ALL
+- 0
+P ALL
+- 0
+P ALL
+R 1 
+P ALL
+.A 0 0 
+P ALL
+R 1 
+P ALL
++ 1
+P ALL
+- 0
+P ALL
+- 0
+P ALL
+.A 1 7 
+P ALL
+P 1
+P ALL
+A. 1 4 
+P ALL
++ 0
+P ALL
+R 0 
+P ALL
+A. 0 0 
+P ALL
+A. 0 8 
+P ALL
+R 1 
+P ALL
+R 1 
+P ALL
+P 0
+P ALL
+R 0 
+P ALL
+A. 1 6 
+P ALL
++ 1
+P ALL
+.A 0 4 
+P ALL
+- 0
+P ALL
+- 0
+P ALL
+A. 0 5 
+P ALL
+R 0 
+P ALL
+- 0
+P ALL
+- 1
+P ALL
+R 1 
+P ALL
+.A 1 2 
+P ALL
+A. 1 5 
+P ALL
+R 0 
+P ALL
+R 0 
+P ALL
+P 1
+P ALL
+A. 0 1 
+P ALL
++ 0
+P ALL
+A. 1 6 
+P ALL
++ 1
+P ALL
+.A 0 8 
+P ALL
+R 0 
+P ALL
+P ALL
+R 0 
+P ALL
+R 1 
+P ALL
+A. 1 5 
+P ALL
++ 0
+P ALL
+R 1 
+P ALL
+R 1 
+P ALL
+A. 1 9 
+P ALL
+R 0 
+P ALL
+- 0
+P ALL
+- 0
+P ALL
+R 0 
+P ALL
+P ALL
+R 1 
+P ALL
+.A 1 9 
+P ALL
+P 1
+P ALL
+P 1
+P ALL
+- 0
+P ALL
++ 0
+P ALL
+- 1
+P ALL
+.A 1 6 
+P ALL
+.A 1 2 
+P ALL
+- 1
+P ALL
+.A 1 2 
+P ALL
++ 0
+P ALL
++ 1
+P ALL
+.A 0 0 
+P ALL
+- 1
+P ALL
+A. 1 0 
+P ALL
+.A 0 5 
+P ALL
++ 0
+P ALL
++ 0
+P ALL
+- 1
+P ALL
+A. 1 1 
+P ALL
+R 1 
+P ALL
+A. 1 4 
+P ALL
++ 1
+P ALL
++ 0
+P ALL
+R 0 
+P ALL
+P 1
+P ALL
+- 0
+P ALL
+P 1
+P ALL
+- 0
+P ALL
+.A 1 6 
+P ALL
+A. 0 2 
+P ALL
++ 0
+P ALL
+R 1 
+P ALL
+R 0 
+P ALL
++ 1
+P ALL
+- 1
+P ALL
+.A 0 7 
+P ALL
+A. 0 3 
+P ALL
+.A 0 9 
+P ALL
+P ALL
+R 1 
+P ALL
+P 0
+P ALL
+R 1 
+P ALL
+- 0
+P ALL
+P ALL
+R 1 
+P ALL
+A. 0 9 
+P ALL
++ 0
+P ALL
+- 1
+P ALL
+- 1
+P ALL
+A. 1 3 
+P ALL
+A. 1 6 
+P ALL
+R 0 
+P ALL
++ 0
+P ALL
+P 1
+P ALL
+- 0
+P ALL
+P 0
+P ALL
+.A 0 7 
+P ALL
+P 0
+P ALL
+A. 0 0 
+P ALL
+R 0 
+P ALL
+.A 1 1 
+P ALL
+P 0
+P ALL
++ 0
+P ALL
+R 1 
+P ALL
+- 1
+P ALL
+R 0 
+P ALL
+- 0
+P ALL
+.A 0 1 
+P ALL
+P ALL
+R 1 
+P ALL
+- 1
+P ALL
+.A 0 2 
+P ALL
+A. 0 5 
+P ALL
+R 1 
+P ALL
+- 1
+P ALL
++ 0
+P ALL
+R 0 
+P ALL
+.A 0 5 
+P ALL
+A. 0 0 
+P ALL
++ 1
+P ALL
+- 1
+P ALL
+A. 0 0 
+P ALL
+- 0
+P ALL
++ 0
+P ALL
+R 0 
+P ALL
+P ALL
+R 0 
+P ALL
+.A 1 8 
+P ALL
+- 0
+P ALL
+A. 1 9 
+P ALL
+A. 1 1 
+P ALL
++ 0
+P ALL
+.A 0 8 
+P ALL
+A. 0 7 
+P ALL
+- 1
+P ALL
+P 0
+P ALL
+R 1 
+P ALL
+- 0
+P ALL
++ 0
+P ALL
++ 1
+P ALL
+A. 0 1 
+P ALL
+A. 0 4 
+P ALL
++ 1
+P ALL
++ 1
+P ALL
+- 0
+P ALL
+- 1
+P ALL
+- 0
+P ALL
+P 1
+P ALL
+.A 0 0 
+P ALL
+P ALL
+R 1 
+P ALL
+- 0
+P ALL
++ 0
+P ALL
+P ALL
+R 1 
+P ALL
++ 1
+P ALL
+- 1
+P ALL
+R 0 
+P ALL
+- 1
+P ALL
+P 0
+P ALL
+R 0 
+P ALL
++ 1
+P ALL
+A. 1 1 
+P ALL
+P ALL
+R 0 
+P ALL
+.A 1 7 
+P ALL
+.A 0 8 
+P ALL
+R 1 
+P ALL
+- 1
+P ALL
+P ALL
+R 1 
+P ALL
+R 0 
+P ALL
+A. 0 0 
+P ALL
+R 0 
+P ALL
+R 1 
+P ALL
+A. 1 3 
+P ALL
+- 1
+P ALL
++ 1
+P ALL
+R 0 
+P ALL
+- 0
+P ALL
+- 0
+P ALL
+.A 1 5 
+P ALL
+R 1 
+P ALL
+.A 1 0 
+P ALL
+.A 1 7 
+P ALL
+.A 0 0 
+P ALL
+R 0 
+P ALL
+- 1
+P ALL
+R 1 
+P ALL
+R 1 
+P ALL
+R 1 
+P ALL
+- 0
+P ALL
+- 0
+P ALL
+R 1 
+P ALL
+R 0 
+P ALL
+.A 0 4 
+P ALL
+R 0 
+P ALL
+.A 1 2 
+P ALL
+- 1
+P ALL
+- 1
+P ALL
++ 1
+P ALL
+R 0 
+P ALL
++ 1
+P ALL
++ 1
+P ALL
++ 1
+P ALL
+- 0
+P ALL
++ 0
+P ALL
++ 1
+P ALL
+A. 1 5 
+P ALL
+- 1
+P ALL
+- 1
+P ALL
+- 0
+P ALL
+.A 0 0 
+P ALL
+R 1 
+P ALL
+- 0
+P ALL
+- 1
+P ALL
+R 1 
+P ALL
++ 1
+P ALL
+- 0
+P ALL
+A. 1 8 
+P ALL
+R 1 
+P ALL
++ 1
+P ALL
++ 0
+P ALL
+A. 1 7 
+P ALL
+.A 0 0 
+P ALL
+A. 1 2 
+P ALL
+R 0 
+P ALL
+A. 1 1 
+P ALL
+- 1
+P ALL
++ 1
+P ALL
+R 0 
+P ALL
++ 0
+P ALL
+P ALL
+R 1 
+P ALL
+.A 1 4 
+P ALL
+.A 0 7 
+P ALL
+A. 0 3 
+P ALL
+A. 0 6 
+P ALL
++ 0
+P ALL
+- 0
+P ALL
+.A 0 9 
+P ALL
+- 1
+P ALL
+P 1
+P ALL
+- 0
+P ALL
+- 1
+P ALL
+P ALL
+R 0 
+P ALL
+A. 1 2 
+P ALL
+.A 1 0 
+P ALL
+- 0
+P ALL
+- 1
+P ALL
+- 1
+P ALL
+R 0 
+P ALL
+- 0
+P ALL
+- 1
+P ALL
+R 1 
+P ALL
++ 1
+P ALL
+.A 0 1 
+P ALL
+A. 1 6 
+P ALL
+- 1
+P ALL
+- 0
+P ALL
+A. 0 5 
+P ALL
+R 0 
+P ALL
+A. 1 8 
+P ALL
+- 0
+P ALL
+.A 0 5 
+P ALL
+- 0
+P ALL
+- 1
+P ALL
+P ALL
+R 0 
+P ALL
+.A 0 2 
+P ALL
++ 1
+P ALL
+A. 1 2 
+P ALL
++ 0
+P ALL
++ 0
+P ALL
+.A 0 3 
+P ALL
+- 0
+P ALL
+P 1
+P ALL
+- 0
+P ALL
+R 1 
+P ALL
+R 0 
+P ALL
+- 1
+P ALL
+R 1 
+P ALL
+R 1 
+P ALL
+.A 0 0 
+P ALL
+P ALL
+R 1 
+P ALL
+- 0
+P ALL
+P ALL
+R 0 
+P ALL
++ 1
+P ALL
+R 0 
+P ALL
+P 0
+P ALL
+- 0
+P ALL
+.A 1 0 
+P ALL
++ 0
+P ALL
++ 0
+P ALL
+.A 1 0 
+P ALL
+- 1
+P ALL
+R 1 
+P ALL
+A. 1 1 
+P ALL
+A. 1 8 
+P ALL
++ 0
+P ALL
+- 0
+P ALL
++ 1
+P ALL
+A. 0 7 
+P ALL
+R 0 
+P ALL
+.A 0 6 
+P ALL
++ 1
+P ALL
+R 0 
+P ALL
++ 0
+P ALL
+P 0
+P ALL
+R 1 
+P ALL
+.A 0 2 
+P ALL
+A. 0 3 
+P ALL
+P 1
+P ALL
+- 0
+P ALL
+R 0 
+P ALL
++ 1
+P ALL
+R 1 
+P ALL
+- 0
+P ALL
+- 1
+P ALL
+R 1 
+P ALL
+P ALL
+R 1 
+P ALL
+P ALL
+R 0 
+P ALL
+.A 1 9 
+P ALL
+- 0
+P ALL
+A. 0 3 
+P ALL
++ 0
+P ALL
++ 0
+P ALL
++ 0
+P ALL
+- 1
+P ALL
+- 1
+P ALL
+R 1 
+P ALL
++ 0
+P ALL
+P ALL
+R 1 
+P ALL
+A. 1 4 
+P ALL
++ 0
+P ALL
+P 1
+P ALL
+P ALL
+R 0 
+P ALL
+.A 1 0 
+P ALL
+R 1 
+P ALL
++ 0
+P ALL
+R 1 
+P ALL
+.A 1 6 
+P ALL
++ 1
+P ALL
+R 1 
+P ALL
+- 0
+P ALL
+A. 1 2 
+P ALL
+R 0 
+P ALL
+- 1
+P ALL
++ 1
+P ALL
+- 1
+P ALL
++ 0
+P ALL
+- 0
+P ALL
+R 0 
+P ALL
+- 1
+P ALL
+- 0
+P ALL
+- 0
+P ALL
++ 1
+P ALL
+.A 0 8 
+P ALL
+P 0
+P ALL
++ 0
+P ALL
+R 1 
+P ALL
++ 1
+P ALL
+.A 1 2 
+P ALL
+R 1 
+P ALL
+.A 0 3 
+P ALL
+- 1
+P ALL
+- 1
+P ALL
+R 1 
+P ALL
+R 0 
+P ALL
+- 1
+P ALL
+R 0 
+P ALL
+.A 1 9 
+P ALL
+.A 1 6 
+P ALL
+R 0 
+P ALL
+P 0
+P ALL
+- 1
+P ALL
+R 1 
+P ALL
+- 0
+P ALL
+- 1
+P ALL
+R 1 
+P ALL
+R 1 
+P ALL
+P ALL
+R 1 
+P ALL
+R 0 
+P ALL
+P ALL
+R 1 
+P ALL
+- 1
+P ALL
+.A 0 8 
+P ALL
+.A 1 5 
+P ALL
++ 0
+P ALL
+P ALL
+R 1 
+P ALL
+R 1 
+P ALL
+R 0 
+P ALL
+- 0
+P ALL
+- 0
+P ALL
+A. 1 7 
+P ALL
++ 0
+P ALL
+P 1
+P ALL
+R 1 
+P ALL
+.A 0 7 
+P ALL
+R 1 
+P ALL
++ 0
+P ALL
+.A 1 6 
+P ALL
++ 1
+P ALL
+- 1
+P ALL
+- 0
+P ALL
++ 1
+P ALL
+R 0 
+P ALL
++ 0
+P ALL
+- 1
+P ALL
+A. 1 1 
+P ALL
+R 1 
+P ALL
+- 1
+P ALL
+.A 1 0 
+P ALL
+A. 1 6 
+P ALL
+A. 0 0 
+P ALL
++ 1
+P ALL
++ 1
+P ALL
+R 0 
+P ALL
+R 0 
+P ALL
+P 1
+P ALL
+.A 0 0 
+P ALL
+- 0
+P ALL
+R 1 
+P ALL
++ 1
+P ALL
+P ALL
+R 1 
+P ALL
+- 0
+P ALL
+P ALL
+R 1 
+P ALL
+.A 0 9 
+P ALL
+A. 1 3 
+P ALL
+P 1
+P ALL
++ 0
+P ALL
++ 1
+P ALL
+.A 1 1 
+P ALL
++ 1
+P ALL
++ 1
+P ALL
+R 1 
+P ALL
++ 0
+P ALL
++ 0
+P ALL
+.A 1 0 
+P ALL
+R 1 
+P ALL
+.A 1 2 
+P ALL
++ 1
+P ALL
+R 1 
+P ALL
+.A 0 0 
+P ALL
+.A 1 0 
+P ALL
+P 1
+P ALL
+R 1 
+P ALL
+.A 0 6 
+P ALL
+R 0 
+P ALL
+R 1 
+P ALL
+P 1
+P ALL
+P 1
+P ALL
+R 0 
+P ALL
+.A 1 7 
+P ALL
++ 0
+P ALL
+- 1
+P ALL
++ 1
+P ALL
+P ALL
+R 0 
+P ALL
+A. 0 3 
+P ALL
+.A 0 0 
+P ALL
+A. 1 2 
+P ALL
+- 0
+P ALL
+A. 0 6 
+P ALL
+P ALL
+R 0 
+P ALL
+R 1 
+P ALL
+- 0
+P ALL
+A. 1 3 
+P ALL
++ 0
+P ALL
+A. 1 1 
+P ALL
+R 0 
+P ALL
+P ALL
+R 0 
+P ALL
++ 1
+P ALL
+.A 0 5 
+P ALL
++ 0
+P ALL
++ 1
+P ALL
+P 1
+P ALL
+R 1 
+P ALL
+R 0 
+P ALL
+- 0
+P ALL
+.A 0 2 
+P ALL
+A. 0 0 
+P ALL
+A. 1 2 
+P ALL
+- 1
+P ALL
+- 1
+P ALL
++ 0
+P ALL
+R 0 
+P ALL
+- 1
+P ALL
++ 1
+P ALL
+.A 1 8 
+P ALL
+P 0
+P ALL
+- 1
+P ALL
+- 0
+P ALL
+- 0
+P ALL
++ 1
+P ALL
+- 0
+P ALL
+.A 1 7 
+P ALL
+A. 0 0 
+P ALL
+A. 1 8 
+P ALL
+A. 1 7 
+P ALL
++ 1
+P ALL
+A. 1 6 
+P ALL
+A. 1 9 
+P ALL
+- 0
+P ALL
+.A 1 2 
+P ALL
+A. 1 5 
+P ALL
++ 1
+P ALL
+- 1
+P ALL
+- 0
+P ALL
+- 0
+P ALL
+- 1
+P ALL
+- 0
+P ALL
++ 0
+P ALL
+.A 0 9 
+P ALL
+R 0 
+P ALL
++ 0
+P ALL
+P ALL
+R 1 
+P ALL
+.A 1 3 
+P ALL
+.A 1 4 
+P ALL
++ 1
+P ALL
+R 0 
+P ALL
+- 0
+P ALL
+.A 0 6 
+P ALL
+- 1
+P ALL
+R 0 
+P ALL
+- 1
+P ALL
+.A 0 2 
+P ALL
+A. 1 3 
+P ALL
+R 0 
+P ALL
+P ALL
+R 0 
+P ALL
++ 1
+P ALL
+- 1
+P ALL
+A. 0 7 
+P ALL
+- 0
+P ALL
+P ALL
+R 1 
+P ALL
+A. 0 5 
+P ALL
+- 1
+P ALL
+- 0
+P ALL
+R 1 
+P ALL
+R 1 
+P ALL
+R 1 
+P ALL
++ 1
+P ALL
+R 0 
+P ALL
+- 1
+P ALL
+A. 0 6 
+P ALL
+R 1 
+P ALL
+.A 0 1 
+P ALL
+P ALL
+R 0 
+P ALL
+- 1
+P ALL
+- 1
+P ALL
+R 1 
+P ALL
+R 0 
+P ALL
+R 1 
+P ALL
+.A 0 4 
+P ALL
+R 0 
+P ALL
+.A 0 7 
+P ALL
+R 1 
+P ALL
+.A 1 5 
+P ALL
+- 1
+P ALL
+A. 0 1 
+P ALL
+.A 1 7 
+P ALL
+A. 1 3 
+P ALL
++ 1
+P ALL
+- 1
+P ALL
+.A 1 1 
+P ALL
++ 0
+P ALL
++ 0
+P ALL
+A. 0 3 
+P ALL
++ 1
+P ALL
+R 0 
+P ALL
++ 1
+P ALL
+R 1 
+P ALL
+P ALL
+R 1 
+P ALL
+R 1 
+P ALL
++ 1
+P ALL
+A. 0 9 
+P ALL
+.A 1 8 
+P ALL
+A. 1 3 
+P ALL
+R 0 
+P ALL
+R 1 
+P ALL
+.A 1 6 
+P ALL
+R 1 
+P ALL
+- 0
+P ALL
+.A 1 8 
+P ALL
+A. 1 0 
+P ALL
+R 0 
+P ALL
++ 1
+P ALL
+R 1 
+P ALL
++ 0
+P ALL
+R 1 
+P ALL
+- 0
+P ALL
+R 0 
+P ALL
+A. 0 6 
+P ALL
+- 1
+P ALL
++ 1
+P ALL
++ 1
+P ALL
+A. 0 0 
+P ALL
+- 0
+P ALL
+- 1
+P ALL
+- 1
+P ALL
+- 0
+P ALL
+- 0
+P ALL
+A. 0 3 
+P ALL
+.A 0 3 
+P ALL
+P 0
+P ALL
+.A 0 5 
+P ALL
++ 0
+P ALL
+.A 1 7 
+P ALL
+A. 1 3 
+P ALL
+.A 1 5 
+P ALL
+R 1 
+P ALL
+P ALL
+R 0 
+P ALL
++ 1
+P ALL
+- 1
+P ALL
+- 1
+P ALL
+.A 1 3 
+P ALL
+R 1 
+P ALL
+R 0 
+P ALL
+- 0
+P ALL
+R 1 
+P ALL
+.A 1 0 
+P ALL
++ 0
+P ALL
+A. 0 0 
+P ALL
+- 0
+P ALL
+R 0 
+P ALL
++ 1
+P ALL
++ 0
+P ALL
+R 0 
+P ALL
+R 0 
+P ALL
+.A 1 1 
+P ALL
++ 0
+P ALL
+- 1
+P ALL
++ 1
+P ALL
++ 1
+P ALL
+A. 0 5 
+P ALL
+- 0
+P ALL
+- 0
+P ALL
+.A 0 5 
+P ALL
+.A 0 3 
+P ALL
+A. 1 8 
+P ALL
+.A 0 3 
+P ALL
+P 0
+P ALL
+R 0 
+P ALL
+R 0 
+P ALL
+A. 0 6 
+P ALL
+P ALL
+R 1 
+P ALL
+P ALL
+R 0 
+P ALL
+- 0
+P ALL
+R 0 
+P ALL
+R 1 
+P ALL
++ 1
+P ALL
++ 1
+P ALL
+P 1
+P ALL
+.A 0 4 
+P ALL
+P ALL
+R 0 
+P ALL
+R 0 
+P ALL
+- 0
+P ALL
+A. 0 0 
+P ALL
+- 1
+P ALL
+- 0
+P ALL
+.A 0 9 
+P ALL
+R 1 
+P ALL
+.A 1 9 
+P ALL
++ 0
+P ALL
+A. 1 2 
+P ALL
+R 0 
+P ALL
+.A 1 7 
+P ALL
+A. 0 9 
+P ALL
++ 0
+P ALL
++ 1
+P ALL
+R 1 
+P ALL
+R 0 
+P ALL
++ 1
+P ALL
+.A 0 0 
+P ALL
++ 1
+P ALL
+R 0 
+P ALL
+R 0 
+P ALL
++ 0
+P ALL
+.A 0 0 
+P ALL
+P 1
+P ALL
+A. 1 3 
+P ALL
+.A 0 7 
+P ALL
++ 0
+P ALL
+.A 1 4 
+P ALL
+.A 0 5 
+P ALL
+P 1
+P ALL
+A. 0 5 
+P ALL
+P 1
+P ALL
+P 0
+P ALL
+A. 1 6 
+P ALL
+- 1
+P ALL
+P 1
+P ALL
+R 1 
+P ALL
+R 1 
+P ALL
+.A 0 4 
+P ALL
++ 1
+P ALL
+P 0
+P ALL
+.A 0 1 
+P ALL
+A. 1 2 
+P ALL
+.A 0 5 
+P ALL
+- 0
+P ALL
+R 1 
+P ALL
+- 1
+P ALL
+- 0
+P ALL
+- 1
+P ALL
++ 0
+P ALL
+R 1 
+P ALL
+R 0 
+P ALL
+P ALL
+R 0 
+P ALL
+R 1 
+P ALL
+A. 0 8 
+P ALL
+- 0
+P ALL
+- 0
+P ALL
+- 1
+P ALL
++ 1
+P ALL
+R 0 
+P ALL
+A. 0 4 
